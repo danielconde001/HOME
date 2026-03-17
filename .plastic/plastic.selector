@@ -1,0 +1,4 @@
+repository "Project Earth@Weez_org@cloud"
+  path "/"
+    br "/main"
+    co "/main"
